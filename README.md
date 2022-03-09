@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 ### Connect with me:
 
-[<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="daniel | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="daniel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="daniel | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 <br />
 
 ### Languages and Tools:
@@ -41,3 +42,4 @@ Here are some ideas to get you started:
 
 [instagram]: https://www.instagram.com/danielwilliamfaessler/
 [github]: https://github.com/DanielWilliamFaessler
+[discord]: https://discord.gg/n2WWvyDXMP
