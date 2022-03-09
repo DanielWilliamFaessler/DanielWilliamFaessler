@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Danie Fässler
+### Hi there 👋 my name is Daniel Fässler
 
 <!--
 **DanielWilliamFaessler/DanielWilliamFaessler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,8 +8,9 @@ This is the Place where I braindump
 - 🌱 I’m currently learning everything
 - 🤔 I’m looking for help with life
 - 💬 Ask me about anything, i'll be sure to try my best
-- 📫 How to reach me at: ..
-- ⚡ Fun fact: ...
+- 📫 How to reach me :  [Daniel Fässler](mailto:danielwilliam.faessler@gmail.com)
+- ⚡ Fun fact: I can speak 4 languages and i'm learning my 5th
+
 -->
 ### Connect with me:
 
