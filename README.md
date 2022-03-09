@@ -38,7 +38,7 @@ This is the Place where I braindump
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielWilliamFaessler&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielWilliamFaessler&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWilliamFaessler&layout=compact&theme=tokyonight" />
 
