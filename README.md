@@ -6,7 +6,7 @@
 
 This is the Place where I braindump
 
-- 🌱 I’m currently learning everything
+- 🎓 I’m currently learning everything
 - 🤔 I’m looking for help with life
 - 💬 Ask me about anything, i'll be sure to try my best
 - 📫 How to reach me :  [Daniel Fässler](mailto:danielwilliam.faessler@gmail.com)
@@ -36,7 +36,8 @@ This is the Place where I braindump
 <br />
 <br />
 
-[![Faesslers GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielWilliamFaessler&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)]
+[![Faesslers GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielWilliamFaessler&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,issues,stars)]
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWilliamFaessler&layout=compact&theme=tokyonight" /> |
 
 [instagram]: https://www.instagram.com/danielwilliamfaessler/
 [github]: https://github.com/DanielWilliamFaessler
