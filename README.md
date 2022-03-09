@@ -42,6 +42,6 @@ This is the Place where I braindump
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWilliamFaessler&layout=compact&theme=tokyonight" />
 
-[instagram]: https://www.instagram.com/danielwilliamfaessler/
+[instagram]: https://www.instagram.com/danielwilliamfassler/
 [github]: https://github.com/DanielWilliamFaessler
 [discord]: https://discord.gg/n2WWvyDXMP
