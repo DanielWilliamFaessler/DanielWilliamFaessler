@@ -2,6 +2,7 @@
 
 <!--
 **DanielWilliamFaessler/DanielWilliamFaessler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 This is the Place where I braindump
 
@@ -11,7 +12,6 @@ This is the Place where I braindump
 - 📫 How to reach me :  [Daniel Fässler](mailto:danielwilliam.faessler@gmail.com)
 - ⚡ Fun fact: I can speak 4 languages and i'm learning my 5th
 
--->
 ### Connect with me:
 
 [<img align="left" alt="daniel | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
