@@ -44,4 +44,4 @@ This is the Place where I braindump
 
 [instagram]: https://www.instagram.com/danielwilliamfassler/
 [github]: https://github.com/DanielWilliamFaessler
-[discord]: https://discord.gg/n2WWvyDXMP
+[discord]: https://discord.gg/oofn2WWvyDXMP
